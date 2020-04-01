@@ -1,0 +1,4 @@
+rootProject.name='Test for maven'
+include ':app'
+include ':test-lib'
+include ':testlibrary'
